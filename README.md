@@ -1,13 +1,14 @@
 # Hello, I am Alessandro 👋.
 
 <img src="https://github.com/Dieman89/Dieman89/blob/master/0.jfif" alt="LinkedIn Image">
-I'm a software engineer who is passionate about creating new projects and learn new things and new technologies.
+I'm a Software Engineer in his Placement Year who is passionate about creating new projects and learn new things and new technologies. I am currently working for OVO Energy.
 
 
 ## Find me around the web 🌎:
-- Playing or learning on <a href="https://www.twitch.tv/Dieman89">Twitch</a> or <a href="https://www.alessandro.dev">alessandro.dev</a> 📹 ✍
+- Playing or learning on <a href="https://www.twitch.tv/Dieman89">Twitch</a> or <a href="https://www.buonerba.dev">buonerba.dev</a> 📹 ✍
 - Publishing what I think on <a href="https://twitter.com/Dieman_"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/buonerba/">LinkedIn</a> 💼
+- Somehow AFK (am I?) on <a href="https://discord.gg/WD5wmbF">Discord</a> 💬
 
 ⚡ Fun fact: I love Sushi 🍣.
 
