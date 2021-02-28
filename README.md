@@ -1,7 +1,7 @@
 # Hello, I am Alessandro 👋.
 
 <img src="https://github.com/Dieman89/Dieman89/blob/master/0.jfif" alt="LinkedIn Image">
-I'm a Software Engineer in his Placement Year who is passionate about creating new projects and learn new things and new technologies. I am currently working for OVO Energy.
+I'm a Software Engineer who is passionate about creating new projects and learn new things and new technologies. I am currently working for OVO Energy.
 
 
 ## Find me around the web 🌎:
