@@ -1,4 +1,4 @@
-# Hello, I am Alessandro 👋.
+# Hello, I am <a href="https://www.buonerba.dev">Alessandro<a/> 👋.
 
 <img src="https://github.com/Dieman89/Dieman89/blob/master/0.jfif" alt="LinkedIn Image">
 I'm a Software Engineer who is passionate about creating new projects and learn new things. I am currently working for <a href="https://www.ovoenergy.com/">OVO Energy</a>.
@@ -6,11 +6,11 @@ I'm a Software Engineer who is passionate about creating new projects and learn 
 <br />I am a maintainer at <a href="https://blitzjs.com/">Blitz.js</a> and you can find me on the official <a href="https://discord.blitzjs.com/">Discord</a>.
 
 ## Find me around the web 🌎:
-- Playing or learning on <a href="https://www.twitch.tv/Dieman89">Twitch</a> or <a href="https://www.buonerba.dev">buonerba.dev</a> ✍
 - Publishing what I think on <a href="https://twitter.com/Dieman_"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/buonerba/">LinkedIn</a> 💼
-- Somehow AFK (am I?) on <a href="https://discord.gg/WD5wmbF">Discord</a> 💬
 - Writing blog posts on <a href="https://dev.to/dieman">Dev</a> ✍
+- Somehow AFK (am I?) on <a href="https://discord.gg/WD5wmbF">Discord</a> 💬
+- Playing on <a href="https://steamcommunity.com/id/arexss/">Steam</a> 🎮
 
 ⚡ Fun fact: I love Sushi 🍣.
 
