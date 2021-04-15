@@ -1,4 +1,4 @@
-# Hello, I am <a href="https://www.buonerba.dev">Alessandro<a/> 👋.
+# Hello, I am <a href="https://www.buonerba.dev">Alessandro<a/> 👋
 
 <img src="https://github.com/Dieman89/Dieman89/blob/master/0.jfif" alt="LinkedIn Image">
 I'm a Software Engineer who is passionate about creating new projects and learn new things. I am currently working for <a href="https://www.ovoenergy.com/">OVO Energy</a>.
