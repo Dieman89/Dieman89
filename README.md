@@ -9,10 +9,15 @@ I'm a Software Engineer who is passionate about creating new projects and learn 
 - Publishing what I think on <a href="https://twitter.com/Dieman_"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/buonerba/">LinkedIn</a> 💼
 - Somehow AFK (am I?) on <a href="https://discord.gg/WD5wmbF">Discord</a> 💬
+- Writing blog posts on <a href="https://dev.to/dieman">Dev</a>✍
 
 ⚡ Fun fact: I love Sushi 🍣.
 
 ![Visitor Count](https://profile-counter.glitch.me/Dieman89/count.svg)
+<a href="https://dev.to/dieman">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Alessandro's DEV Community Profile" height="30" width="30">
+</a>
+
 
 <!--
 **Dieman89/Dieman89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
