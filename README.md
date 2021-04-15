@@ -6,11 +6,11 @@ I'm a Software Engineer who is passionate about creating new projects and learn 
 <br />I am a maintainer at <a href="https://blitzjs.com/">Blitz.js</a> and you can find me on the official <a href="https://discord.blitzjs.com/">Discord</a>.
 
 ## Find me around the web 🌎:
-- Playing or learning on <a href="https://www.twitch.tv/Dieman89">Twitch</a> or <a href="https://www.buonerba.dev">buonerba.dev</a> 📹 ✍
+- Playing or learning on <a href="https://www.twitch.tv/Dieman89">Twitch</a> or <a href="https://www.buonerba.dev">buonerba.dev</a> ✍
 - Publishing what I think on <a href="https://twitter.com/Dieman_"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/buonerba/">LinkedIn</a> 💼
 - Somehow AFK (am I?) on <a href="https://discord.gg/WD5wmbF">Discord</a> 💬
-- Writing blog posts on <a href="https://dev.to/dieman">Dev</a>✍
+- Writing blog posts on <a href="https://dev.to/dieman">Dev</a> ✍
 
 ⚡ Fun fact: I love Sushi 🍣.
 
