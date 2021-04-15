@@ -1,8 +1,9 @@
 # Hello, I am Alessandro 👋.
 
 <img src="https://github.com/Dieman89/Dieman89/blob/master/0.jfif" alt="LinkedIn Image">
-I'm a Software Engineer who is passionate about creating new projects and learn new things and new technologies. I am currently working for OVO Energy.
+I'm a Software Engineer who is passionate about creating new projects and learn new things and new technologies. I am currently working for <a href="https://www.ovoenergy.com/">OVO Energy</a>.
 
+<br />I am a maintainer at <a href="https://blitzjs.com/">Blitz.js</a> and you can find me on the official <a href="https://discord.blitzjs.com/">Discord</a>.
 
 ## Find me around the web 🌎:
 - Playing or learning on <a href="https://www.twitch.tv/Dieman89">Twitch</a> or <a href="https://www.buonerba.dev">buonerba.dev</a> 📹 ✍
