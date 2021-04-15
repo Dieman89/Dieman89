@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Stats on README
 on:
   schedule:
     # Runs at 12am IST
