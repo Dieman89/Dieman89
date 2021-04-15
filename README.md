@@ -9,8 +9,8 @@ I'm a Software Engineer who is passionate about creating new projects and learn 
 - Publishing what I think on <a href="https://twitter.com/Dieman_"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/buonerba/">LinkedIn</a> 💼
 - Writing blog posts on <a href="https://dev.to/dieman">Dev</a> ✍
-- Somehow AFK (am I?) on <a href="https://discord.gg/WD5wmbF">Discord</a> 💬
 - Playing on <a href="https://steamcommunity.com/id/arexss/">Steam</a> 🎮
+- AFK on <a href="https://discord.gg/WD5wmbF">Discord</a> 💬
 
 ⚡ Fun fact: I love Sushi 🍣.
 
