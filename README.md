@@ -6,7 +6,7 @@ I'm a Software Engineer who is passionate about creating new projects and learn 
 <br />I am a maintainer at <a href="https://blitzjs.com/">Blitz.js</a> and you can find me on the official <a href="https://discord.blitzjs.com/">Discord</a>.
 
 ## Find me around the web 🌎:
-- Publishing what I think on <a href="https://twitter.com/Dieman_"> Twitter</a> 🏓
+- Saying what I think on <a href="https://twitter.com/Dieman_"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/buonerba/">LinkedIn</a> 💼
 - Writing blog posts on <a href="https://dev.to/dieman">Dev</a> ✍
 - Playing on <a href="https://steamcommunity.com/id/arexss/">Steam</a> 🎮
