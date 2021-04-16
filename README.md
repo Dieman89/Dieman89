@@ -9,7 +9,7 @@
 <p>I am currently working for <a href="https://www.ovoenergy.com/"><b>OVO Energy</b></a> and I am a maintainer at <a href="https://blitzjs.com/"><b>Blitz.js</b></a>. You can find me on the official <a href="https://discord.blitzjs.com/">Discord</a>.</p>
 <br>
 <details>
-  <summary>⚡ <b>Recent GitHub Activity</b></summary>
+  <summary>⚡ <b>Recent Activity</b></summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
