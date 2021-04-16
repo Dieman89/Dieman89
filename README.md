@@ -23,6 +23,7 @@
   <summary>📕 <b>Latest Posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [How I set up my Mac](https://dev.to/dieman/how-i-set-up-my-mac-9m4)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
