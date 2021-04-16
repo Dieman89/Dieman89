@@ -7,8 +7,23 @@
 </p>
 <p>I'm Alessandro, Software Engineer from <img src="https://image.flaticon.com/icons/svg/197/197626.svg" width="13"/> <b>Naples, Italy</b> currently living in <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13" /> <b>London, United Kingdom</b>.</p>
 <p>I am currently working for <a href="https://www.ovoenergy.com/"><b>OVO Energy</b></a> and I am a maintainer at <a href="https://blitzjs.com/"><b>Blitz.js</b></a>. You can find me on the official <a href="https://discord.blitzjs.com/">Discord</a>.</p>
+<br>
+<details>
+  <summary>⚡ <b>Recent GitHub Activity</b></summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<h4>Things I play with</h4>
+</details>
+
+<details>
+  <summary>📕 <b>Latest Posts</b></summary>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+<br>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -38,22 +53,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-<details>
-  <summary>⚡ <b>Recent GitHub Activity</b></summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>📕 <b>Latest Posts</b></summary>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-</details>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
