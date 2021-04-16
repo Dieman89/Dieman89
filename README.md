@@ -40,7 +40,7 @@
 </p>
 ---
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity</summary><br/>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-  <summary>:zap: Latest Posts</summary>
+  <summary>📕 Latest Posts</summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
