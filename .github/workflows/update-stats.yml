@@ -1,4 +1,4 @@
-name: Update Stats on README
+name: Update Stats
 on:
   schedule:
     - cron: "0 * * * *"
