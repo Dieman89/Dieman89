@@ -9,13 +9,13 @@
 <p>I am currently working for <a href="https://www.ovoenergy.com/"><b>OVO Energy</b></a> and I am a maintainer at <a href="https://blitzjs.com/"><b>Blitz.js</b></a>. You can find me on the official <a href="https://discord.blitzjs.com/">Discord</a>.</p>
 
 <details>
-<summary><h4>⚡ Recent Activity</h4></summary>
+  <summary>⚡ Recent Activity</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
 
 <details>
-<summary><h4>📕 Latest Posts</h4></summary>
+  <summary>📕 Latest Posts</summary>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </details>
