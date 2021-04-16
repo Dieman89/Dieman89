@@ -49,8 +49,10 @@
 
 <details>
   <summary>:zap: Latest Posts</summary>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 </details>
 
 <!--START_SECTION:waka-->
