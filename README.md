@@ -38,15 +38,17 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
+---
 <details>
-  <summary>⚡ <b>Recent Activity</b></summary>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
 </details>
 
 <details>
-  <summary>📕 <b>Latest Posts</b></summary>
+  <summary>:zap: Latest Posts</summary>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </details>
