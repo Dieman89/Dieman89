@@ -1,4 +1,4 @@
-# Hello, Nice to see you here! 👋
+# Hello, Nice to see you here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
 <a href="https://www.buonerba.dev"><img src="./0.jfif" alt="LinkedIn Image"></a>
 
