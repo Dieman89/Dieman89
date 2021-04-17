@@ -12,6 +12,9 @@
   <summary>⚡ <b>Recent Activity</b></summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/blitz-js/it.blitzjs.com/pull/2) in [blitz-js/it.blitzjs.com](https://github.com/blitz-js/it.blitzjs.com)
+2. 🗣 Commented on [#173](https://github.com/anmol098/waka-readme-stats/issues/173) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+3. ❗️ Closed issue [#7](https://github.com/Dieman89/chatApp/issues/7) in [Dieman89/chatApp](https://github.com/Dieman89/chatApp)
 <!--END_SECTION:activity-->
 
 </details>
