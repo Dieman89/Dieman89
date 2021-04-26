@@ -12,9 +12,9 @@
   <summary>⚡ <b>Recent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#234](https://github.com/pankod/superplate/issues/234) in [pankod/superplate](https://github.com/pankod/superplate)
-2. 🎉 Merged PR [#2](https://github.com/blitz-js/it.blitzjs.com/pull/2) in [blitz-js/it.blitzjs.com](https://github.com/blitz-js/it.blitzjs.com)
-3. 🗣 Commented on [#173](https://github.com/anmol098/waka-readme-stats/issues/173) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. ❗️ Opened issue [#7](https://github.com/blitz-js/it.blitzjs.com/issues/7) in [blitz-js/it.blitzjs.com](https://github.com/blitz-js/it.blitzjs.com)
+2. 🎉 Merged PR [#6](https://github.com/blitz-js/it.blitzjs.com/pull/6) in [blitz-js/it.blitzjs.com](https://github.com/blitz-js/it.blitzjs.com)
+3. ❗️ Opened issue [#234](https://github.com/pankod/superplate/issues/234) in [pankod/superplate](https://github.com/pankod/superplate)
 <!--END_SECTION:activity-->
 
 </details>
