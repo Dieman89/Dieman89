@@ -62,9 +62,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Scala        8 mins          ██████████▒░░░░░░░░░░░░░░   41.02 % 
-Markdown     4 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.20 % 
-YAML         2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-JSON         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
