@@ -62,8 +62,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSON         15 mins         ████████████░░░░░░░░░░░░░   47.71 % 
-MDX          12 mins         ██████████▒░░░░░░░░░░░░░░   40.93 % 
-Markdown     3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
