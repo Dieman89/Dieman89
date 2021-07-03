@@ -62,9 +62,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-MDX          41 mins         ████████████▒░░░░░░░░░░░░   49.47 % 
-TypeScript   22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.96 % 
-JavaScript   18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.62 % 
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Terraform   12 mins         █████████████████████▒░░░   85.55 % 
+Markdown    1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 ```
 <!--END_SECTION:waka-->
