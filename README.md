@@ -12,9 +12,9 @@
   <summary>⚡ <b>Recent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/blitz-js/it.blitzjs.com/issues/7) in [blitz-js/it.blitzjs.com](https://github.com/blitz-js/it.blitzjs.com)
-2. 🎉 Merged PR [#6](https://github.com/blitz-js/it.blitzjs.com/pull/6) in [blitz-js/it.blitzjs.com](https://github.com/blitz-js/it.blitzjs.com)
-3. ❗️ Opened issue [#234](https://github.com/pankod/superplate/issues/234) in [pankod/superplate](https://github.com/pankod/superplate)
+1. 🗣 Commented on [#234](https://github.com/pankod/superplate/issues/234) in [pankod/superplate](https://github.com/pankod/superplate)
+2. ❗️ Opened issue [#7](https://github.com/blitz-js/it.blitzjs.com/issues/7) in [blitz-js/it.blitzjs.com](https://github.com/blitz-js/it.blitzjs.com)
+3. 🎉 Merged PR [#6](https://github.com/blitz-js/it.blitzjs.com/pull/6) in [blitz-js/it.blitzjs.com](https://github.com/blitz-js/it.blitzjs.com)
 <!--END_SECTION:activity-->
 
 </details>
