@@ -58,7 +58,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-📊 **Weekly development breakdown**
+📊 **Weekly development breakdown** 
+
+[![wakatime](https://wakatime.com/badge/user/6ee6c608-069f-4ebc-993e-39673e6cb7cf.svg)](https://wakatime.com/@6ee6c608-069f-4ebc-993e-39673e6cb7cf)
 
 <!--START_SECTION:waka-->
 ```text
