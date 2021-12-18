@@ -42,10 +42,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        18 hrs 2 mins   █████████████▒░░░░░░░░░░░   53.60 % 
-Elixir       5 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-TypeScript   4 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-JavaScript   4 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-JSON         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Other        16 hrs 32 mins  ████████████▓░░░░░░░░░░░░   51.14 % 
+Elixir       5 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.94 % 
+TypeScript   4 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+JavaScript   4 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+JSON         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 <!--END_SECTION:waka-->
