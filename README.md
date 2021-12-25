@@ -42,7 +42,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other    9 hrs 50 mins   ████████████████████████▓   98.21 % 
-Elixir   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
