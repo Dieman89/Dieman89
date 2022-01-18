@@ -42,6 +42,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other   9 hrs           ████████████████████▓░░░░   83.17 % 
+Scala   1 hr 48 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
 ```
 <!--END_SECTION:waka-->
