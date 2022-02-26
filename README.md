@@ -42,8 +42,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        15 hrs 44 mins  █████████████████████▓░░░   86.38 % 
-Scala        2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Terraform    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Other        17 hrs 29 mins  ██████████████████████░░░   87.57 % 
+Scala        2 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Terraform    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 <!--END_SECTION:waka-->
