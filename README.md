@@ -41,9 +41,9 @@
 [![wakatime](https://wakatime.com/badge/user/6ee6c608-069f-4ebc-993e-39673e6cb7cf.svg)](https://wakatime.com/@6ee6c608-069f-4ebc-993e-39673e6cb7cf)
 
 <!--START_SECTION:waka-->
+
 ```text
-Other        17 hrs 29 mins  ██████████████████████░░░   87.57 % 
-Scala        2 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Terraform    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Other        17 hrs 29 mins  ██████████████████████░░░   87.57 %
 ```
+
 <!--END_SECTION:waka-->
