@@ -6,7 +6,7 @@
 <a href="https://dev.to/dieman"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height=25></a>
 </p>
 <p>I'm Alessandro, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/330/330672.png" width="13"/> <b>Naples, Italy</b> currently living in <img src="https://cdn-icons-png.flaticon.com/512/330/330425.png" width="13" /> <b>London, United Kingdom</b>.</p>
-<p>I am currently working for <a href="https://www.kaluza.com/"><b>Kaluza</b></a> and I am a maintainer at <a href="https://blitzjs.com/"><b>Blitz.js</b></a>. You can find me on the official <a href="https://discord.blitzjs.com/">Discord</a>.</p>
+<p>I am currently working for <a href="https://www.kaluza.com/"><img src="https://i.imgur.com/HdDTLIP.png" height=15> <b>Kaluza</b></a> and in my free time, I love <b>mix</b>-ing my ideas in <a href="https://elixir-lang.org/"><b>Elixir</b>.
 <br>
 <details>
   <summary>⚡ <b>Recent Activity</b></summary>
