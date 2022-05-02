@@ -43,7 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other        72 hrs 15 mins  ████████████████████████▓   98.63 %
+Other        71 hrs 45 mins  ████████████████████████▒   97.96 %
 ```
 
 <!--END_SECTION:waka-->
