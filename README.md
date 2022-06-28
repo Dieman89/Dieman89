@@ -7,27 +7,7 @@
 </p>
 <p>I'm Alessandro, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/330/330672.png" width="13"/> <b>Naples, Italy</b> currently living in <img src="https://cdn-icons-png.flaticon.com/512/330/330425.png" width="13" /> <b>London, United Kingdom</b>.</p>
 <p>I am currently working for <a href="https://www.kaluza.com/"><img src="https://i.imgur.com/HdDTLIP.png" height=15> <b>Kaluza</b></a> and in my free time, I love <b>mix</b>-ing my ideas in <a href="https://elixir-lang.org/"><b>Elixir</b>.
-<br>
-<details>
-  <summary>⚡ <b>Recent Activity</b></summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#234](https://github.com/pankod/superplate/issues/234) in [pankod/superplate](https://github.com/pankod/superplate)
-2. ❗️ Opened issue [#7](https://github.com/blitz-js/it.blitzjs.com/issues/7) in [blitz-js/it.blitzjs.com](https://github.com/blitz-js/it.blitzjs.com)
-3. 🎉 Merged PR [#6](https://github.com/blitz-js/it.blitzjs.com/pull/6) in [blitz-js/it.blitzjs.com](https://github.com/blitz-js/it.blitzjs.com)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>📕 <b>Latest Posts</b></summary>
-
-<!-- BLOG-POST-LIST:START -->
-- [How I set up my Mac](https://dev.to/dieman/how-i-set-up-my-mac-9m4)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-<br>
+<br><br><br><br><br>
 <p>
   <img alt="Scala" src="https://img.shields.io/badge/-Scala-de3c39?style=flat-square&logo=scala&logoColor=white" />
   <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-6A4979?style=flat-square&logo=elixir&logoColor=white" />
