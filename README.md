@@ -29,6 +29,7 @@
 </details>
 <br>
 <p>
+  <img alt="Scala" src="https://img.shields.io/badge/-Scala-de3c39?style=flat-square&logo=scala&logoColor=white" />
   <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-6A4979?style=flat-square&logo=elixir&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
