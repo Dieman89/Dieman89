@@ -24,8 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Scala        5 hrs 25 mins   ████████▓░░░░░░░░░░░░░░░░   34.49 %
-Other        4 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.64 %
+YAML         6 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░   35.21 %
+Scala        5 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   29.25 %
+Other        3 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
 ```
 
 <!--END_SECTION:waka-->
