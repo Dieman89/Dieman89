@@ -24,8 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Scala        5 hrs 43 mins   ██████████████▒░░░░░░░░░░   57.67 %
-Other        4 hrs 10 mins   ██████████▓░░░░░░░░░░░░░░   42.04 %
+Other   6 hrs 55 mins   █████████████▓░░░░░░░░░░░   54.04 %
 ```
 
 <!--END_SECTION:waka-->
