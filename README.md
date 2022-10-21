@@ -24,7 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other            4 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
+Terraform        4 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.56 %
+Bash             4 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
+Scala            2 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
+Other            1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
 ```
 
 <!--END_SECTION:waka-->
