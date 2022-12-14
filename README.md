@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other          7 hrs 15 mins   █████████████▓░░░░░░░░░░░   54.48 %
+Other          8 hrs 15 mins   ███████████████▓░░░░░░░░░   62.48 %
 ```
 
 <!--END_SECTION:waka-->
