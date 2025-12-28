@@ -1,4 +1,4 @@
-# Hello, wanderer... <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
 <a href="https://www.buonerba.dev"><img src="./0.jfif" alt="LinkedIn Image"></a>
 
@@ -7,24 +7,3 @@
 </p>
 <p>I'm Alessandro, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/330/330672.png" width="13"/> <b>Naples, Italy</b> currently living in <img src="https://cdn-icons-png.flaticon.com/512/330/330425.png" width="13" /> <b>London, United Kingdom</b>.</p>
 <p>I am currently working for <a href="https://www.kaluza.com/"><img src="https://i.imgur.com/HdDTLIP.png" height=15> <b>Kaluza</b></a> and in my free time, I love <b>mix</b>-ing my ideas in <a href="https://elixir-lang.org/"><b>Elixir</b>.
-<br><br><br><br><br>
-<p>
-  <img alt="Scala" src="https://img.shields.io/badge/-Scala-de3c39?style=flat-square&logo=scala&logoColor=white" />
-  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-6A4979?style=flat-square&logo=elixir&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p>
-
-📊 **Weekly development breakdown** 
-
-[![wakatime](https://wakatime.com/badge/user/6ee6c608-069f-4ebc-993e-39673e6cb7cf.svg)](https://wakatime.com/@6ee6c608-069f-4ebc-993e-39673e6cb7cf)
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
